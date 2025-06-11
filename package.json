@@ -1,26 +1,11 @@
 {
-  "name": "goit-advancedjs-hw-05",
+  "name": "typescript-homework-module-2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "web-dev-server --node-resolve --open --watch",
-    "dev":"tsc -w"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AnastasiaBndr/goit-advancedjs-hw-05.git"
-  },
   "keywords": [],
-  "author": "Anastasia Bondarchuk <abondarchuk1149@gmail.com>",
+  "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/AnastasiaBndr/goit-advancedjs-hw-05/issues"
-  },
-  "homepage": "https://github.com/AnastasiaBndr/goit-advancedjs-hw-05#readme",
-  "devDependencies": {
-    "@web/dev-server": "^0.4.6"
+  "dependencies": {
+    "typescript": "^5.1.5"
   }
 }
